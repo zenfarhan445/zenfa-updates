@@ -1,0 +1,11 @@
+{
+  "version": "ZF_v1.4.F2",
+  "notes": "Perbaikan sistem mentions, pembaruan dependencies whatsapp-web.js (minor).",
+  "type": "git",
+  "safe": true,
+  "timestamp": "2025-11-30T00:00:00Z",
+  "actions": [
+    { "kind": "git_pull", "repo": "https://github.com/zenfarhan445/zenfa-bot.git" },
+    { "kind": "npm", "package": "whatsapp-web.js", "version": "latest" }
+  ]
+}
